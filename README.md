@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ananya ()
+- 👋 Hi, I’m @ananya
 - 👀 I’m interested in system trading & algorithms
-- 🌱 I’m currently learning to implement backtesting for some trading systems
-- 💞️ I’m looking to collaborate on backtesting. 
+- 🌱 I’m currently learning to implement backtesting for some trading strategies
+- 💞️ I’m looking to collaborate on backtesting system trading strategies
 - 📫 Reach me at ananya.aakash@zohomail.in
 
 
